@@ -6,7 +6,8 @@ I’m a Computer Science Engineering graduate passionate about building practica
 
 I enjoy solving real-world problems, developing applications, and continuously learning modern technologies. 🚀
 
-⸻
+_________________________________________________________________________________________________________________________________________
+
 
 👨‍💻 About Me
 
@@ -19,7 +20,8 @@ I enjoy solving real-world problems, developing applications, and continuously l
 * 📚 Certified in DSA in Python & Python Programming
 * 💡 Passionate about building scalable and efficient applications
 
-⸻
+_________________________________________________________________________________________________________________________________________
+
 
 🛠️ Tech Stack
 
@@ -33,7 +35,8 @@ AI / Computer Vision:yolov8,image processing
 
 Tools:git,github,visual studio code,jupyter notebook
 
-⸻
+_________________________________________________________________________________________________________________________________________
+
 
 🚀 Featured Projects
 
@@ -48,7 +51,8 @@ React Flask Python YOLOv8 OpenCV
 * Created a dashboard displaying lane-wise traffic density, signal states, and camera feeds.
 * Implemented backend scheduling logic for automated signal-phase transitions.
 
-⸻
+_________________________________________________________________________________________________________________________________________
+
 
 🛡️ Next-Gen IDS
 
@@ -61,7 +65,8 @@ Python React.js Genkit Gemini AI Network Security
 * Built data-processing pipelines for continuous network traffic.
 * Optimized detection logic to reduce false positives.
 
-⸻
+_________________________________________________________________________________________________________________________________________
+
 
 💼 Experience
 
@@ -75,7 +80,8 @@ Jan 2026 – May 2026
 * Documented technical designs, testing results, and deployment processes.
 * Worked with Vercel and Render for deployment.
 
-⸻
+_________________________________________________________________________________________________________________________________________
+
 
 📜 Certifications
 
@@ -84,7 +90,8 @@ Jan 2026 – May 2026
 * 🤖 Generative AI for Beginners — Simplilearn
 * 💻 Social Network — VTU Skill Enhancement Course
 
-⸻
+_________________________________________________________________________________________________________________________________________
+
 
 🎯 Currently Learning
 
@@ -102,18 +109,9 @@ AI / Machine Learning
 
 I’m continuously improving my problem-solving and software development skills by building projects and practicing coding.
 
-⸻
+_________________________________________________________________________________________________________________________________________
 
-📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-⸻
 
 🤝 Connect With Me
 
@@ -121,7 +119,8 @@ I’m continuously improving my problem-solving and software development skills 
 * 🐙 GitHub: https://github.com/sharathgowda-7
 * 📧 Email: sharathraj027@gmail.com
 
-⸻
+_________________________________________________________________________________________________________________________________________
+
 
 💡 “Keep learning. Keep building. Keep improving.”
 
